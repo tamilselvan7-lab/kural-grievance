@@ -1,0 +1,4 @@
+python-dotenv
+streamlit
+google-genai==2.34.0
+python-dotenv
