@@ -1,0 +1,32 @@
+
+complaint_id,language,complaint_text,expected_department
+1,Tamil,எங்கள் பகுதியில் குடிநீர் வரவில்லை,Water
+2,Tamil,சாலையில் பெரிய பள்ளங்கள் உள்ளன,Roads
+3,Tamil,தெரு விளக்குகள் எரியவில்லை,Electricity
+4,Tamil,குப்பைகள் பல நாட்களாக அகற்றப்படவில்லை,Sanitation
+5,Tamil,அரசு மருத்துவமனையில் மருத்துவர் இல்லை,Healthcare
+6,Tamil,எங்கள் பகுதியில் சாலை பாதுகாப்பு இல்லை,Public Safety
+7,Tamil,பள்ளியில் குடிநீர் வசதி இல்லை,Education
+8,Tamil,மின்சாரம் அடிக்கடி துண்டிக்கப்படுகிறது,Electricity
+9,Tamil,கழிவுநீர் சாலையில் ஓடுகிறது,Sanitation
+10,Tamil,பேருந்து நிறுத்தத்தில் நிழற்குடை இல்லை,Other
+11,Hindi,हमारे इलाके में पानी की आपूर्ति नहीं हो रही है,Water
+12,Hindi,सड़क पर बड़े गड्ढे हैं,Roads
+13,Hindi,स्ट्रीट लाइट काम नहीं कर रही है,Electricity
+14,Hindi,कई दिनों से कचरा नहीं उठाया गया है,Sanitation
+15,Hindi,सरकारी अस्पताल में डॉक्टर उपलब्ध नहीं हैं,Healthcare
+16,Hindi,हमारे इलाके में सुरक्षा की समस्या है,Public Safety
+17,Hindi,स्कूल में पीने के पानी की सुविधा नहीं है,Education
+18,Hindi,बिजली बार बार जा रही है,Electricity
+19,Hindi,नाली का पानी सड़क पर बह रहा है,Sanitation
+20,Hindi,बस स्टॉप पर बैठने की जगह नहीं है,Other
+21,English,There has been no drinking water supply for three days,Water
+22,English,There are dangerous potholes on the main road,Roads
+23,English,Street lights are not working in our area,Electricity
+24,English,Garbage has not been collected for several days,Sanitation
+25,English,The government hospital lacks sufficient doctors,Healthcare
+26,English,There is a public safety concern near the bus stand,Public Safety
+27,English,Our government school has no drinking water facility,Education
+28,English,Frequent power cuts are affecting our neighbourhood,Electricity
+29,English,Open sewage is flowing along the street,Sanitation
+30,English,The public bus stop has no proper shelter,Other
